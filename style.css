@@ -116,7 +116,7 @@ of an element */
 ul {
     list-style-type: none;
     margin:0;
-    
+
     background-color: #c95802;
 
 }
@@ -192,7 +192,7 @@ li a:hover {
     box-sizing: border-box;
     min-height: 100vh;
     padding: 2em;
-    background-color: rgb(61, 61, 61);
+    background-image: url("imgs/datura.jpg");
     color: #fff;
     font-family: 'BenchNine', sans-serif;
     font-weight: 300;
