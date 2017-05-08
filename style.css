@@ -1,12 +1,12 @@
 body {
     padding: 0;
     margin: 0;
-    background-image: url ("imgs/witchhouse.jpg");
+    background-image: url ("imgs/herbs.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'BenchNine', sans-serif;
     font-weight: 300;
 }
 
@@ -69,20 +69,20 @@ of an element */
 }
 
 .title h1 {
-    font-family: 'Homemade Apple', cursive;
+    font-family: 'Calligraffitti', cursive;
     font-size: 2.5em;
     letter-spacing: 0.2em;
 }
 
 .title h2 {
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'BenchNine', sans-serif;
     font-weight: 300;
     font-style: italic;
     line-height: 0.5em;
 }
 
 .hero .nav {
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'BenchNine', sans-serif;
     font-style: italic;
     font-weight: 300;
     color: #fff;
