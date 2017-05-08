@@ -193,12 +193,12 @@ li a:hover {
     min-height: 100vh;
     padding: 2em;
     background-image: url("imgs/datura.jpg");
-    color: #fff;
+
     font-family: 'BenchNine', sans-serif;
     font-weight: 300;
     font-size: 1.5em;
     text-align: center;
-    
+
 }
 
 .menu h1 {
@@ -218,7 +218,7 @@ li a:hover {
 }
 
 .menu .menu-head {
-    font-style: italic;
+    font-style: normal;
     font-size: 2em;
     padding: 1em;
 }
