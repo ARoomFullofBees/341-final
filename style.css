@@ -1,7 +1,7 @@
 body {
     padding: 0;
     margin: 0;
-    background-image: url ("imgs/herbs.jpg");
+    background-image: url ("imgs/datura.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
@@ -148,7 +148,7 @@ of an element */
     padding: 2em;
     background-color: rgb(61, 61, 61);
     color: #fff;
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'BenchNine', sans-serif;
     font-weight: 300;
     font-size: 1.5em;
     text-align: center;
@@ -158,7 +158,7 @@ of an element */
 }
 
 .menu h1 {
-    font-family: 'Homemade Apple', cursive;
+    font-family: 'Calligraffitti', cursive;
 }
 
 .menu .menu-group-container {
