@@ -6,7 +6,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    font-family: 'BenchNine', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
     font-weight: 300;
 }
 
@@ -69,20 +69,20 @@ of an element */
 }
 
 .title h1 {
-    font-family: 'Calligraffitti', cursive;
+    font-family: 'Jim Nightshade', cursive;
     font-size: 2.5em;
     letter-spacing: 0.2em;
 }
 
 .title h2 {
-    font-family: 'BenchNine', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
     font-weight: 300;
     font-style: italic;
     line-height: 0.5em;
 }
 
 .hero .nav {
-    font-family: 'BenchNine', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
     font-style: italic;
     font-weight: 300;
     color: #fff;
@@ -194,7 +194,7 @@ li a:hover {
     padding: 2em;
     background-color: rgb(61, 61, 61);
     color: #fff;
-    font-family: 'BenchNine', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
     font-weight: 300;
     font-size: 1.5em;
     text-align: center;
@@ -204,7 +204,7 @@ li a:hover {
 }
 
 .menu h1 {
-    font-family: 'Calligraffitti', cursive;
+    font-family: 'Jim Nightshade', cursive;
 }
 
 .menu .menu-group-container {
