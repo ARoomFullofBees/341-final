@@ -8,15 +8,15 @@ I might leave out some of the categories for the sake of simplicity. I'm going t
 slightly stylistic, because a lot of similar sites use very complicated fonts to their detriment.
 
 ![Sitemap](/imgs/sitemap.jpg)
-Format: ![Alt Text](url)
+
 ![Wireframes](/imgs/wireframe.jpg)
-Format: ![Alt Text](url)
+
 
 I'm making my About Me section with my professional psychic name, Lenore Vinka.
 The home page ended up looking pretty great once I chose the stylistic elements.
 The rest of the pages gave me some trouble, however. I was going to repurpose the
-code from week 10, but it didn't look great, so I ended up really liking the other design
-for all of the pages, because the content looked a lot better, even if it's not as varied, it
+code from week 11, but it didn't look great, so I ended up really liking the other design
+for all of the pages; the content looked a lot better, even if it's not as varied, it
 still looks like a good repetition with variation throughout.
 
-I had a lot of tweeking to do putting the content in, but nothing was too challenging and frustrating this time, and I'm happy with the end result.
+I had a lot of tweeking to do putting the content in, but nothing was too challenging and frustrating this time, and I'm happy with the end result. I bought the domain name "Wicked Cottage" so I can switch the github page to the custom domain and continue adding to and refining the site in the future.
